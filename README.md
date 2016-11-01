@@ -10,7 +10,7 @@ The [LinuxServer.io][linuxserverurl] team brings you another container release f
 * [IRC][ircurl] on freenode at `#linuxserver.io`
 * [Podcast][podcasturl] covers everything to do with getting the most from your Linux Server plus a focus on all things Docker and containerisation!
 
-# linuxserver/mariadb
+# lsioarmhf/mariadb
 [![](https://images.microbadger.com/badges/version/lsioarmhf/mariadb.svg)](https://microbadger.com/images/lsioarmhf/mariadb "Get your own version badge on microbadger.com")[![](https://images.microbadger.com/badges/image/lsioarmhf/mariadb.svg)](http://microbadger.com/images/lsioarmhf/mariadb "Get your own image badge on microbadger.com")[![Docker Pulls](https://img.shields.io/docker/pulls/lsioarmhf/mariadb.svg)][hub][![Docker Stars](https://img.shields.io/docker/stars/lsioarmhf/mariadb.svg)][hub][![Build Status](http://jenkins.linuxserver.io:8080/buildStatus/icon?job=Dockers/LinuxServer.io-armhf/lsioarmhf-mariadb)](http://jenkins.linuxserver.io:8080/job/Dockers/job/LinuxServer.io-armhf/job/lsioarmhf-mariadb/)
 [hub]: https://hub.docker.com/r/lsioarmhf/mariadb/
 
