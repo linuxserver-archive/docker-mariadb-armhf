@@ -85,7 +85,7 @@ Find custom.cnf in /config for config changes (restart container for them to tak
 
 * image version number
 
-`docker inspect -f '{{ index .Config.Labels "build_version" }}' linuxserver/mariadb`
+`docker inspect -f '{{ index .Config.Labels "build_version" }}' lsioarmhf/mariadb`
 
 ## Versions
 
