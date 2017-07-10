@@ -13,7 +13,7 @@ The [LinuxServer.io][linuxserverurl] team brings you another container release f
 * [Podcast][podcasturl] covers everything to do with getting the most from your Linux Server plus a focus on all things Docker and containerisation!
 
 # lsioarmhf/mariadb
-[![](https://images.microbadger.com/badges/version/lsioarmhf/mariadb.svg)](https://microbadger.com/images/lsioarmhf/mariadb "Get your own version badge on microbadger.com")[![](https://images.microbadger.com/badges/image/lsioarmhf/mariadb.svg)](http://microbadger.com/images/lsioarmhf/mariadb "Get your own image badge on microbadger.com")[![Docker Pulls](https://img.shields.io/docker/pulls/lsioarmhf/mariadb.svg)][hub][![Docker Stars](https://img.shields.io/docker/stars/lsioarmhf/mariadb.svg)][hub][![Build Status](http://jenkins.linuxserver.io:8080/buildStatus/icon?job=Dockers/LinuxServer.io-armhf/lsioarmhf-mariadb)](http://jenkins.linuxserver.io:8080/job/Dockers/job/LinuxServer.io-armhf/job/lsioarmhf-mariadb/)
+[![](https://images.microbadger.com/badges/version/lsioarmhf/mariadb.svg)](https://microbadger.com/images/lsioarmhf/mariadb "Get your own version badge on microbadger.com")[![](https://images.microbadger.com/badges/image/lsioarmhf/mariadb.svg)](https://microbadger.com/images/lsioarmhf/mariadb "Get your own image badge on microbadger.com")[![Docker Pulls](https://img.shields.io/docker/pulls/lsioarmhf/mariadb.svg)][hub][![Docker Stars](https://img.shields.io/docker/stars/lsioarmhf/mariadb.svg)][hub][![Build Status](https://ci.linuxserver.io/buildStatus/icon?job=Docker-Builders/armhf/armhf-mariadb)](https://ci.linuxserver.io/job/Docker-Builders/job/armhf/job/armhf-mariadb/)
 
 One of the most popular database servers. Made by the original developers of MySQL
 
