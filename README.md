@@ -89,5 +89,6 @@ Find custom.cnf in /config for config changes (restart container for them to tak
 
 ## Versions
 
++ **12.01.18:** Fix continuation lines
 + **14.09.17:** Gracefully shut down mariadb
 + **11.01.16:** Initial Release.
