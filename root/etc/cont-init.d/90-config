@@ -1,0 +1,21 @@
+#!/usr/bin/with-contenv bash
+
+echo '
+******************************************************
+******************************************************
+*                                                    *
+*                                                    *
+*          This image has been deprecated            *
+*                                                    *
+*           Use the multi-arch images at             *
+*                                                    *
+*               linuxserver/mariadb                  *
+*                                                    *
+*    https://hub.docker.com/r/linuxserver/mariadb    *
+*                                                    *
+*   https://github.com/linuxserver/docker-mariadb    *
+*                                                    *
+*                                                    *
+*                                                    *
+******************************************************
+******************************************************'
